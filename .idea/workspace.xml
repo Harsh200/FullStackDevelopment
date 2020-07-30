@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Html/striong.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/striong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/PreAndCode.htmk.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/PreAndCode.htmk.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596105614280</updated>
       <workItem from="1596105616273" duration="4890000" />
-      <workItem from="1596111409462" duration="889000" />
+      <workItem from="1596111409462" duration="1244000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596105716795</created>
@@ -177,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596112243966</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="updated with underline tag">
+      <created>1596112330176</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1596112330176</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Pre and Code Tag Demo">
+      <created>1596112379255</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1596112379255</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,17 +214,19 @@
     <MESSAGE value="basic updated portfolio using html" />
     <MESSAGE value="applying style" />
     <MESSAGE value="emphasis tag, italic tag, strong tag for styling html" />
-    <option name="LAST_COMMIT_MESSAGE" value="emphasis tag, italic tag, strong tag for styling html" />
+    <MESSAGE value="updated with underline tag" />
+    <MESSAGE value="Pre and Code Tag Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pre and Code Tag Demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596106059138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596106059138" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596112242491">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596112377919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596112242491" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596112377919" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
