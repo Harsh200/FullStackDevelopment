@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Html/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/Resume.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Html/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/links.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596105614280</updated>
       <workItem from="1596105616273" duration="4890000" />
-      <workItem from="1596111409462" duration="4267000" />
+      <workItem from="1596111409462" duration="4525000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596105716795</created>
@@ -228,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596114841833</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="creating link for about page and home page">
+      <created>1596115783283</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1596115783283</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,17 +265,18 @@
     <MESSAGE value="some changes in description List" />
     <MESSAGE value="creating a demo Resume" />
     <MESSAGE value="Links in Html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Links in Html" />
+    <MESSAGE value="creating link for about page and home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating link for about page and home page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596106059138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596106059138" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596114840510">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596115782069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596114840510" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596115782069" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -281,9 +289,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596105682378" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596114211928">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596115786165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596114211928" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596115786165" />
   </component>
 </project>
