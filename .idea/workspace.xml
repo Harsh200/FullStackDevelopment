@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/Resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/article.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/article.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596105614280</updated>
       <workItem from="1596105616273" duration="4890000" />
-      <workItem from="1596111409462" duration="4525000" />
+      <workItem from="1596111409462" duration="5551000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596105716795</created>
@@ -235,14 +234,27 @@
       <option name="project" value="LOCAL" />
       <updated>1596115783283</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="adding link to resume">
+      <created>1596116033137</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1596116033137</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Article Tag">
+      <created>1596116109957</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1596116109957</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init" />
     <MESSAGE value="first html file" />
     <MESSAGE value="writing content in html page" />
     <MESSAGE value="trying the heading tag" />
@@ -266,17 +278,19 @@
     <MESSAGE value="creating a demo Resume" />
     <MESSAGE value="Links in Html" />
     <MESSAGE value="creating link for about page and home page" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating link for about page and home page" />
+    <MESSAGE value="adding link to resume" />
+    <MESSAGE value="Article Tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Article Tag" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596106059138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596106059138" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596115782069">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596116108646">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596115782069" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596116108646" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -289,9 +303,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596105682378" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596115786165">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596116039232">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596115786165" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596116039232" />
   </component>
 </project>
