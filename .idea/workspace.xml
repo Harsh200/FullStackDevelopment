@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Html/whiteSpace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/whiteSpace.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/whiteSpace.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
       <updated>1596105614280</updated>
       <workItem from="1596105616273" duration="4890000" />
       <workItem from="1596111409462" duration="5551000" />
-      <workItem from="1596193475013" duration="9159000" />
+      <workItem from="1596193475013" duration="9202000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596105716795</created>
@@ -363,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596207498569</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="html is not case sensitive">
+      <created>1596207598246</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1596207598246</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,7 +378,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Pre and Code Tag Demo with code and function" />
     <MESSAGE value="List demo in html" />
     <MESSAGE value="ordered, unordered and description list" />
     <MESSAGE value="some changes in description List" />
@@ -396,17 +402,18 @@
     <MESSAGE value="meta tag" />
     <MESSAGE value="div tag" />
     <MESSAGE value="span tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="span tag" />
+    <MESSAGE value="html is not case sensitive" />
+    <option name="LAST_COMMIT_MESSAGE" value="html is not case sensitive" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596207497018">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596207596862">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596207497018" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596207596862" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
