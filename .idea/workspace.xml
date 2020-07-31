@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/productListing.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/productListing.html" afterDir="false" />
-    </list>
+    <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +64,7 @@
       <updated>1596105614280</updated>
       <workItem from="1596105616273" duration="4890000" />
       <workItem from="1596111409462" duration="5551000" />
-      <workItem from="1596193475013" duration="2072000" />
+      <workItem from="1596193475013" duration="2768000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596105716795</created>
@@ -286,14 +283,20 @@
       <option name="project" value="LOCAL" />
       <updated>1596195337232</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="done with product table example">
+      <created>1596195626710</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1596195626710</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="heading in html" />
     <MESSAGE value="all heading tag description in html" />
     <MESSAGE value="Learning about Paragraph and Comments in Html" />
     <MESSAGE value="paragraph tag using loreum ipsum" />
@@ -318,17 +321,18 @@
     <MESSAGE value="Student Table demo" />
     <MESSAGE value="attributes used in table in html" />
     <MESSAGE value="product listing example of table" />
-    <option name="LAST_COMMIT_MESSAGE" value="product listing example of table" />
+    <MESSAGE value="done with product table example" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with product table example" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596106059138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596106059138" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596195335869">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596195625070">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596195335869" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596195625070" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -341,9 +345,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596105682378" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596195017541">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596195631088">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596195017541" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596195631088" />
   </component>
 </project>
