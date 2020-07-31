@@ -7,15 +7,59 @@
 <body>
 <h1> Simple Form with Get Action</h1>
 <form method="get" action="result.html">
+    <fieldset>
+        <legend>Input Element</legend>
     <label for="FirstName"> FirstName</label>
     <input type="text" id="FirstName" placeholder="Enter Your First Name" name="FirstName">
     <br>
     <label for="LastName"> LastName</label>
     <input type="text" id="LastName" placeholder="Enter your last Name" name="LastName">
     <br>
-    <br>
-    <input type="submit">
-    <input type="reset" value="Clear Text">
+        <lable for="Phone Number">Phone Number</lable>
+        <input type="number" id="Phone Number" placeholder="Number">
+        <br>
+
+        <label for="Email">Email Id</label>
+        <input type="email"id="Email" placeholder="abc@gmail.com">
+        <label for="Password"> Password</label>
+        <input type="password" id="Password" placeholder="Password">
+        <br>
+
+        <label for="Education"> Education</label>
+        <select id="Education">
+            <option> 10th</option>
+            <option> 12th</option>
+        </select>
+        <br>
+        <label for="Option">Option</label>
+        <select id="Option">
+            <optgroup label="Option 1">
+                <option> 1</option>
+                <option> 2</option>
+            </optgroup>
+            <optgroup label="Option 2">
+                <option> 3</option>
+            </optgroup>
+        </select>
+
+        <br>
+        <label for="Radio Buttion"> option1</label>
+        <input type="radio" id="Radio Buttion" name="radio" checked>
+        <label for="Radio Button"> option 2</label>
+        <input type="radio" id="Radio Button" name="radio">
+        <br>
+        <label for="checkbox1"> Checkbox1</label>
+        <input type="checkbox" id="checkbox1">
+        <label for="checkbox2">checkBox2</label>
+        <input type="checkbox" id="checkbox2">
+        <br>
+        <label for="Text Area"> Text Area</label>
+        <br>
+        <textarea id="Text Area" rows="5" cols="50"></textarea>
+        <br>
+        <input type="submit">
+        <input type="reset" value="Clear Text">
+    </fieldset>
 </form>
 </body>
 </html>
