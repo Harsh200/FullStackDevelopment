@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Html/iframes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/whiteSpace.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/whiteSpace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/FrontendDocumentationSide/htmlreview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/FrontendDocumentationSide/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html/FrontendDocumentationSide/reference.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/iframes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/iframes.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +44,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,7 +69,8 @@
       <updated>1596105614280</updated>
       <workItem from="1596105616273" duration="4890000" />
       <workItem from="1596111409462" duration="5551000" />
-      <workItem from="1596193475013" duration="9523000" />
+      <workItem from="1596193475013" duration="9669000" />
+      <workItem from="1596214050650" duration="1385000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596105716795</created>
@@ -378,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596207636956</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="I frames in html">
+      <created>1596207952437</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1596207952437</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +395,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ordered, unordered and description list" />
     <MESSAGE value="some changes in description List" />
     <MESSAGE value="creating a demo Resume" />
     <MESSAGE value="Links in Html" />
@@ -411,17 +419,18 @@
     <MESSAGE value="span tag" />
     <MESSAGE value="html is not case sensitive" />
     <MESSAGE value="white space does not matter in html" />
-    <option name="LAST_COMMIT_MESSAGE" value="white space does not matter in html" />
+    <MESSAGE value="I frames in html" />
+    <option name="LAST_COMMIT_MESSAGE" value="I frames in html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596207635573">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596207950640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596207635573" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596207950640" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
