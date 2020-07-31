@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Html/productListing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/productListing.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/productListing.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
       <updated>1596105614280</updated>
       <workItem from="1596105616273" duration="4890000" />
       <workItem from="1596111409462" duration="5551000" />
-      <workItem from="1596193475013" duration="1789000" />
+      <workItem from="1596193475013" duration="2072000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596105716795</created>
@@ -278,14 +279,20 @@
       <option name="project" value="LOCAL" />
       <updated>1596195008141</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="product listing example of table">
+      <created>1596195337232</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1596195337232</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="template for boilerPlate" />
     <MESSAGE value="heading in html" />
     <MESSAGE value="all heading tag description in html" />
     <MESSAGE value="Learning about Paragraph and Comments in Html" />
@@ -310,17 +317,18 @@
     <MESSAGE value="two methods of creating table in html" />
     <MESSAGE value="Student Table demo" />
     <MESSAGE value="attributes used in table in html" />
-    <option name="LAST_COMMIT_MESSAGE" value="attributes used in table in html" />
+    <MESSAGE value="product listing example of table" />
+    <option name="LAST_COMMIT_MESSAGE" value="product listing example of table" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596106059138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596106059138" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596195006704">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596195335869">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596195006704" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596195335869" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
