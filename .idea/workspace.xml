@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Html/iframes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Html/whiteSpace.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/whiteSpace.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,7 @@
       <updated>1596105614280</updated>
       <workItem from="1596105616273" duration="4890000" />
       <workItem from="1596111409462" duration="5551000" />
-      <workItem from="1596193475013" duration="9202000" />
+      <workItem from="1596193475013" duration="9523000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596105716795</created>
@@ -370,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596207598246</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="white space does not matter in html">
+      <created>1596207636956</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1596207636956</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,7 +386,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="List demo in html" />
     <MESSAGE value="ordered, unordered and description list" />
     <MESSAGE value="some changes in description List" />
     <MESSAGE value="creating a demo Resume" />
@@ -403,17 +410,18 @@
     <MESSAGE value="div tag" />
     <MESSAGE value="span tag" />
     <MESSAGE value="html is not case sensitive" />
-    <option name="LAST_COMMIT_MESSAGE" value="html is not case sensitive" />
+    <MESSAGE value="white space does not matter in html" />
+    <option name="LAST_COMMIT_MESSAGE" value="white space does not matter in html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596207596862">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596207635573">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596207596862" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596207635573" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -426,10 +434,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596105682378" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596206775151">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596207879796">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596206775151" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596207879796" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1596206301886">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
