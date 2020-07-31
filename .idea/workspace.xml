@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Html/divAndSpanTag.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/metaTag.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/metaTag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/divAndSpanTag.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/divAndSpanTag.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <updated>1596105614280</updated>
       <workItem from="1596105616273" duration="4890000" />
       <workItem from="1596111409462" duration="5551000" />
-      <workItem from="1596193475013" duration="8914000" />
+      <workItem from="1596193475013" duration="9019000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596105716795</created>
@@ -351,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596206733418</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="div tag">
+      <created>1596207362847</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1596207362847</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,7 +365,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="updated with underline tag" />
     <MESSAGE value="Pre and Code Tag Demo" />
     <MESSAGE value="Pre and Code Tag Demo with code and function" />
     <MESSAGE value="List demo in html" />
@@ -384,17 +389,18 @@
     <MESSAGE value="creating simple form" />
     <MESSAGE value="complete with forms" />
     <MESSAGE value="meta tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="meta tag" />
+    <MESSAGE value="div tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="div tag" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596206731819">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596207361048">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596206731819" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596207361048" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
