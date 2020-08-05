@@ -71,14 +71,7 @@
       <workItem from="1596193475013" duration="9669000" />
       <workItem from="1596214050650" duration="2130000" />
       <workItem from="1596603722819" duration="5048000" />
-      <workItem from="1596629547605" duration="2903000" />
-    </task>
-    <task id="LOCAL-00017" summary="updated with underline tag">
-      <created>1596112330176</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1596112330176</updated>
+      <workItem from="1596629547605" duration="3300000" />
     </task>
     <task id="LOCAL-00018" summary="Pre and Code Tag Demo">
       <created>1596112379255</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596632054840</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="id has more preference over class">
+      <created>1596632527956</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1596632527956</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,7 +424,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="div tag" />
     <MESSAGE value="span tag" />
     <MESSAGE value="html is not case sensitive" />
     <MESSAGE value="white space does not matter in html" />
@@ -449,17 +448,18 @@
     <MESSAGE value="applying class selector to particular html tag" />
     <MESSAGE value="id's in html and css" />
     <MESSAGE value="id are unique" />
-    <option name="LAST_COMMIT_MESSAGE" value="id are unique" />
+    <MESSAGE value="id has more preference over class" />
+    <option name="LAST_COMMIT_MESSAGE" value="id has more preference over class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596632053542">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596632526341">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596632053542" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596632526341" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

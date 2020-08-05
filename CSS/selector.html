@@ -68,14 +68,30 @@ p{
         border-style: solid;
 
     }
+    /* Attribute Selectors */
+    p[class]{
+        color: red;
+        font-size: 50px;
+        font-weight: revert;
+    }
+    p[class=new]{
+        color:blue;
+        background-color: aqua;
+        border-style: dot-dash;
+    }
+
 </style>
 </head>
 <body>
+<p class=""> This is an example of attribute Selectors</p>
+<p class="new"> This is an new example of attribute Selectors</p>
 <h1 class="text-italic">Heading</h1><h2>Small Heading</h2>
+<h5> Attribute Selectors</h5>
 <h4 id="green-border"> Fourth Heading with id</h4>
 <h4 class="green-border red-border" id="red-border"> Fourth Heading with class</h4>
 <h3 class="red-border">Third Heading</h3>
 <p> Here we are working on Selectors</p>
 <p class="green-border"> Class Selector</p>
+<p> Attribute Selector</p>
 </body>
 </html>
