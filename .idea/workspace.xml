@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/selector.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/selector.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,14 +71,7 @@
       <workItem from="1596193475013" duration="9669000" />
       <workItem from="1596214050650" duration="2130000" />
       <workItem from="1596603722819" duration="5048000" />
-      <workItem from="1596629547605" duration="2444000" />
-    </task>
-    <task id="LOCAL-00016" summary="emphasis tag, italic tag, strong tag for styling html">
-      <created>1596112243966</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1596112243966</updated>
+      <workItem from="1596629547605" duration="2903000" />
     </task>
     <task id="LOCAL-00017" summary="updated with underline tag">
       <created>1596112330176</created>
@@ -415,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596632013793</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="id are unique">
+      <created>1596632054840</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1596632054840</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,7 +424,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="meta tag" />
     <MESSAGE value="div tag" />
     <MESSAGE value="span tag" />
     <MESSAGE value="html is not case sensitive" />
@@ -448,17 +448,18 @@
     <MESSAGE value="some changes" />
     <MESSAGE value="applying class selector to particular html tag" />
     <MESSAGE value="id's in html and css" />
-    <option name="LAST_COMMIT_MESSAGE" value="id's in html and css" />
+    <MESSAGE value="id are unique" />
+    <option name="LAST_COMMIT_MESSAGE" value="id are unique" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596632012493">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596632053542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596632012493" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596632053542" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -471,10 +472,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596105682378" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596607970337">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596632060920">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596607970337" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596632060920" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1596206301886">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
