@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/inline.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/inline.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/inline.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/inline.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +71,7 @@
       <workItem from="1596111409462" duration="5551000" />
       <workItem from="1596193475013" duration="9669000" />
       <workItem from="1596214050650" duration="2130000" />
-      <workItem from="1596603722819" duration="2080000" />
+      <workItem from="1596603722819" duration="2164000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596105716795</created>
@@ -397,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596215520389</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="bold using css">
+      <created>1596605901744</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1596605901744</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,7 +410,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="creating a demo Resume" />
     <MESSAGE value="Links in Html" />
     <MESSAGE value="creating link for about page and home page" />
     <MESSAGE value="adding link to resume" />
@@ -430,17 +434,18 @@
     <MESSAGE value="white space does not matter in html" />
     <MESSAGE value="I frames in html" />
     <MESSAGE value="creating a simpe documentation site" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating a simpe documentation site" />
+    <MESSAGE value="bold using css" />
+    <option name="LAST_COMMIT_MESSAGE" value="bold using css" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596215517575">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596605899885">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596215517575" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596605899885" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
