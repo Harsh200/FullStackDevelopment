@@ -39,19 +39,32 @@ p{
         background-color: green;
     }
     .green-border{
+        background-color: green;
+        font-weight: bold;
+        font-style: italic;
+        border-color: red;
         border-style: solid;
-        border-color: green;
-        background-color: aqua;
+        color: red;
     }
     h1.text-italic{
         font-style: italic;
     }
-
+/* id selectors */
+    #green-border{
+        background-color: green;
+        font-weight: bold;
+        font-style: italic;
+        border-color: red;
+        border-style: solid;
+        color: red;
+    }
 </style>
 </head>
 <body>
 <h1 class="text-italic">Heading</h1><h2>Small Heading</h2>
-<h3 class="red-border " >Third Heading</h3>
+<h4 id="green-border"> Fourth Heading with id</h4>
+<h4 class="green-border red-border"> Fourth Heading with class</h4>
+<h3 class="red-border">Third Heading</h3>
 <p> Here we are working on Selectors</p>
 <p class="green-border"> Class Selector</p>
 </body>
