@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Pseudo Classes and Elements</title>
     <style type="text/css">
+        /* Pseudo Classes */
         a:link{
             color: blue;
         }
@@ -16,6 +17,14 @@
         }
         a:active{
             color: green;
+        }
+        /* Pseudo Elements */
+        h1::after{
+            content: "----";
+            color: aqua;
+        }
+        p::first-letter{
+            font-size: 500%;
         }
     </style>
 </head>
