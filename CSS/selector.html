@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Selectors in HTMl</title>
-</head>
-<body>
+
 <style type="text/css">
     /* Simple Selectors Example*/
 h1{
@@ -14,7 +13,8 @@ p{
     font-weight: bold;
 }
 /* Universal Selector
-*/{
+*/
+    {
     border-style: solid;
     border-color: blue;
 }
@@ -43,11 +43,16 @@ p{
         border-color: green;
         background-color: aqua;
     }
+    .text-italic{
+        font-style: italic;
+    }
 
 </style>
-</body>
+</head>
+<body>
 <h1>Heading</h1><h2>Small Heading</h2>
-<h3 class="red-border">Third Heading</h3>
+<h3 class="red-border text-italic" >Third Heading</h3>
 <p> Here we are working on Selectors</p>
 <p class="green-border"> Class Selectord</p>
+</body>
 </html>
