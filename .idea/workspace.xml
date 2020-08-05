@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/PseudoClassAndElement.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/selector.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/selector.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,14 +71,7 @@
       <workItem from="1596193475013" duration="9669000" />
       <workItem from="1596214050650" duration="2130000" />
       <workItem from="1596603722819" duration="5048000" />
-      <workItem from="1596629547605" duration="5008000" />
-    </task>
-    <task id="LOCAL-00022" summary="creating a demo Resume">
-      <created>1596114205591</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1596114205591</updated>
+      <workItem from="1596629547605" duration="6079000" />
     </task>
     <task id="LOCAL-00023" summary="Links in Html">
       <created>1596114841833</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596634208826</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="general adjacent sibling Selector">
+      <created>1596634640271</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1596634640271</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,7 +424,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="creating a simpe documentation site" />
     <MESSAGE value="bold using css" />
     <MESSAGE value="adding style in html" />
     <MESSAGE value="comment in css write under style tag" />
@@ -449,17 +448,18 @@
     <MESSAGE value="child selector" />
     <MESSAGE value="descendant selector" />
     <MESSAGE value="adjacent sibling Selector" />
-    <option name="LAST_COMMIT_MESSAGE" value="adjacent sibling Selector" />
+    <MESSAGE value="general adjacent sibling Selector" />
+    <option name="LAST_COMMIT_MESSAGE" value="general adjacent sibling Selector" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596634207644">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596634638362">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596634207644" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596634638362" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -472,13 +472,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596105682378" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596634604179">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1596634644032">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596634604179" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1596206301886">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596634644032" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1596635238578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1596206301886" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1596635238578" />
   </component>
 </project>
