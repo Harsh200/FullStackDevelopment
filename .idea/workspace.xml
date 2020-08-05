@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Html/FrontendDocumentationSide/htmlheading.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Html/FrontendDocumentationSide/htmlparagraphs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/inline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/inline.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/FrontendDocumentationSide/htmlreview.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/FrontendDocumentationSide/htmlreview.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/FrontendDocumentationSide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/FrontendDocumentationSide/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Html/FrontendDocumentationSide/reference.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/FrontendDocumentationSide/reference.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -41,17 +39,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -72,6 +73,7 @@
       <workItem from="1596111409462" duration="5551000" />
       <workItem from="1596193475013" duration="9669000" />
       <workItem from="1596214050650" duration="2130000" />
+      <workItem from="1596603722819" duration="2080000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1596105716795</created>
