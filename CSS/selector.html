@@ -79,10 +79,31 @@ p{
         background-color: aqua;
         border-style: dot-dash;
     }
+/* Child Selectors */
+    p>a{
+        color: orange;
+        background-color: red;
+        border-style: dot-dash;
+        border-color: aqua;
 
+    }
+    div>a{
+        color: red;
+        border-style: solid;
+        border-color: orange;
+        background-color: aqua;
+
+    }
 </style>
 </head>
 <body>
+<div>
+    <a href=""> Harsh New </a>
+
+
+    <p> <a href=""> Harsh</a> Hero</p>
+</div>
+<p> <a href=""> Paragraph</a> of Text</p>
 <p class=""> This is an example of attribute Selectors</p>
 <p class="new"> This is an new example of attribute Selectors</p>
 <h1 class="text-italic">Heading</h1><h2>Small Heading</h2>
