@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/inline.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/inline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/internalCSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/internalCSS.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/selector.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/selector.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,14 +73,7 @@
       <workItem from="1596193475013" duration="9669000" />
       <workItem from="1596214050650" duration="2130000" />
       <workItem from="1596603722819" duration="5048000" />
-      <workItem from="1596629547605" duration="963000" />
-    </task>
-    <task id="LOCAL-00009" summary="Learning about Paragraph and Comments in Html">
-      <created>1596107529492</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1596107529492</updated>
+      <workItem from="1596629547605" duration="1268000" />
     </task>
     <task id="LOCAL-00010" summary="paragraph tag using loreum ipsum">
       <created>1596107907302</created>
@@ -416,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596630464348</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="universal selector">
+      <created>1596630560681</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1596630560681</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -424,7 +426,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Embedded Content in html" />
     <MESSAGE value="adding video ,audio and image in html" />
     <MESSAGE value="updated" />
     <MESSAGE value="simple music website using html" />
@@ -449,17 +450,18 @@
     <MESSAGE value="external css" />
     <MESSAGE value="selectors or writing rules in CSS" />
     <MESSAGE value="applying selectors on h1 and p tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="applying selectors on h1 and p tag" />
+    <MESSAGE value="universal selector" />
+    <option name="LAST_COMMIT_MESSAGE" value="universal selector" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596630462698">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596630559211">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596630462698" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596630559211" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
