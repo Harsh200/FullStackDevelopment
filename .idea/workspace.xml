@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/flaotingBoxes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/FloatingOfImage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/abc.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,10 +38,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\WebstormProjects\FullStackDevelopment\CSS" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
@@ -74,14 +80,7 @@
       <workItem from="1596214050650" duration="2130000" />
       <workItem from="1596603722819" duration="5048000" />
       <workItem from="1596629547605" duration="7493000" />
-      <workItem from="1597227053032" duration="3456000" />
-    </task>
-    <task id="LOCAL-00031" summary="product listing example of table">
-      <created>1596195337232</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1596195337232</updated>
+      <workItem from="1597227053032" duration="4522000" />
     </task>
     <task id="LOCAL-00032" summary="done with product table example">
       <created>1596195626710</created>
@@ -419,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597230014619</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="floating with boxes">
+      <created>1597230607598</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1597230607598</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +433,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="external css" />
     <MESSAGE value="selectors or writing rules in CSS" />
     <MESSAGE value="applying selectors on h1 and p tag" />
     <MESSAGE value="universal selector" />
@@ -452,17 +457,18 @@
     <MESSAGE value="box border" />
     <MESSAGE value="making margin between boxes" />
     <MESSAGE value="padding and margin in boxes" />
-    <option name="LAST_COMMIT_MESSAGE" value="padding and margin in boxes" />
+    <MESSAGE value="floating with boxes" />
+    <option name="LAST_COMMIT_MESSAGE" value="floating with boxes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1597230013033">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1597230606185">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597230013033" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597230606185" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
