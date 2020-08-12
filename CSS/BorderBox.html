@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Border in Box</title>
+    <style type="text/css">
+        *{
+            border-style: solid;
+            border-color: blue;
+            background-color: yellow;
+        }
+        div{
+            border-style: dashed;
+            border-color: red;
+            border-width: 4px;
+            border-top-style: solid;
+            border-bottom-style: dotted;
+        }
+        .blue-border{
+            border: 5px solid blue;
+        }
+        .green-border{
+            border: 5px solid green;
+        }
+    </style>
+</head>
+<body>
+<h1>There is a magical box around every html tag</h1>
+<div>
+    <p> Working with new boxes </p>
+    <p> working with many boxes</p>
+</div>
+<div class="blue-border">
+    <p> Blue Border Solid</p>
+
+</div>
+<div class="green-border">
+    <p> Green Border</p>
+</div>
+</body>
+</html>

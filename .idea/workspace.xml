@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/boxes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/BorderBox.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,14 +74,7 @@
       <workItem from="1596214050650" duration="2130000" />
       <workItem from="1596603722819" duration="5048000" />
       <workItem from="1596629547605" duration="7493000" />
-      <workItem from="1597227053032" duration="393000" />
-    </task>
-    <task id="LOCAL-00026" summary="Article Tag">
-      <created>1596116109957</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1596116109957</updated>
+      <workItem from="1597227053032" duration="930000" />
     </task>
     <task id="LOCAL-00027" summary="table in html">
       <created>1596193797459</created>
@@ -419,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596640471653</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="creating simple box with red color inside it">
+      <created>1597227495395</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1597227495411</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,7 +427,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="single line and multiline comment both are same in css" />
     <MESSAGE value="adding internal css in html page" />
     <MESSAGE value="changing the body style" />
     <MESSAGE value="exercise in inline html" />
@@ -452,17 +451,18 @@
     <MESSAGE value="working with psuedo classes" />
     <MESSAGE value="working with psuedo elements" />
     <MESSAGE value="working with color" />
-    <option name="LAST_COMMIT_MESSAGE" value="working with color" />
+    <MESSAGE value="creating simple box with red color inside it" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating simple box with red color inside it" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1596640470471">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1597227492765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1596640470471" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597227492765" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
