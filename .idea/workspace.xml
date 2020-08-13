@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/FloatingOfImage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/abc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/HorizontalMenu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,15 +48,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,6 +78,7 @@
       <workItem from="1596603722819" duration="5048000" />
       <workItem from="1596629547605" duration="7493000" />
       <workItem from="1597227053032" duration="4522000" />
+      <workItem from="1597293301344" duration="681000" />
     </task>
     <task id="LOCAL-00032" summary="done with product table example">
       <created>1596195626710</created>
