@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/PositioningAbsolute.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/PositionRelative.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +77,7 @@
       <workItem from="1596603722819" duration="5048000" />
       <workItem from="1596629547605" duration="7493000" />
       <workItem from="1597227053032" duration="4522000" />
-      <workItem from="1597293301344" duration="3234000" />
-    </task>
-    <task id="LOCAL-00035" summary="updated">
-      <created>1596203043955</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1596203043955</updated>
+      <workItem from="1597293301344" duration="3416000" />
     </task>
     <task id="LOCAL-00036" summary="simple music website using html">
       <created>1596204163557</created>
@@ -423,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597296951390</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="positioning absolute">
+      <created>1597297426074</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1597297426074</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,7 +430,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="type selectors" />
     <MESSAGE value="using type selector with more than one tag" />
     <MESSAGE value="class selectors in html" />
     <MESSAGE value="some changes" />
@@ -456,17 +454,18 @@
     <MESSAGE value="creating horizontal Menu" />
     <MESSAGE value="vertical menu" />
     <MESSAGE value="positioning fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="positioning fixed" />
+    <MESSAGE value="positioning absolute" />
+    <option name="LAST_COMMIT_MESSAGE" value="positioning absolute" />
   </component>
   <component name="WindowStateProjectService">
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1597296949882">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1597297424737">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597296949882" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597297424737" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
