@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Layout In Projects</title>
+    <style>
+        body{
+            width:940px;
+            margin:0 auto;
+            font:10pt/1.5em "Georgia",Arial,sans-serif;
+        }
+        header,section,article,footer{
+            display:block;
+
+        }
+        header,footer{
+            padding: 0px;
+            text-align: center;
+            border-style: dotted;
+            border-color: green;
+
+        }
+        nav{
+            text-align: center;
+            border:2px solid green;
+        }
+        nav ul{
+            list-style-type: none;
+            padding: 0;
+            margin-bottom: 0;
+        }
+        nav li{
+            display: inline-block;
+            margin: 0 0 0 50px;
+            width: 100px;
+
+        }
+        aside.aleft{
+            float: left;
+        }
+        aside.aright{
+            float: right;
+        }
+        section{
+            float: left;
+            width: 500px;
+            padding-left: 20px;
+            border-left: 2px dotted red;
+            border-right: 2px dotted red ;
+        }
+        footer{
+            clear: both;
+            width: 940px;
+            height: 10px;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1> Page Layout</h1>
+</header>
+<hr>
+<nav>
+    <ul>
+        <li> <a href="#"> Home</a> </li>
+        <li> <a href="#"> About</a> </li>
+        <li> <a href="#"> Contact</a> </li>
+    </ul>
+</nav>
+<hr>
+<aside class="aleft">
+    <figure>
+        <img src="abc.jpg" height="100px" width="=100px" />
+        <figcaption>Great Image</figcaption>
+    </figure>
+    <div>
+        <ul>
+            <li> <a href="#"> Home</a></li>
+            <li> <a href="#"> About</a></li>
+            <li> <a href="#"> Contact</a> </li>
+        </ul>
+    </div>
+
+</aside>
+
+
+<section>
+    <article>
+        <header> <h1> <u>Article 1</u></h1>
+        </header>
+        <div>
+        <p> In this era cloud computing is used in various fields like industry, military, college, etc.
+            for various services and storage of huge amount of data. Data stored in this cloud
+            can be accessed or retrieved on the users request without direct access to the server computer. But the major concern regarding storage of data online that is on the cloud is the Security. This Security
+            concern can be solved using various ways, the most commonly used techniques are cryptography and steganography. But
+            sometimes a single technique or algorithm alone cannot provide high-level security. So we have introduces a new security
+            mechanism that uses a combination of multiple cryptographic algorithms of symmetric key and steganography. In this
+            proposed system 3DES (Triple Data Encryption Standard), RC6 (Rivest Cipher 6) and AES (Advanced Encryption Standard)
+            algorithms are used to provide security to data. All the algorithms use 128-bit keys. LSB steganography technique is used to
+            securely store the key information. Key information will contain the information regarding the encrypted part of the file, the
+            algorithm and the key for the algorithm. File during encryption is split into three parts. These individual parts of the file will
+            be encrypted using different encryption algorithm simultaneously with the help of multithreading technique. The key
+            information is inserted into an image using the LSB technique. Our methodology guarantees better security and protection of
+            customer data by storing encrypted data on a single cloud server, using AES, 3DES and RC6 algorithm.
+        </p></div>
+    </article>
+    <article>
+        <header> <h1> <u>Article 2</u></h1>
+        </header>
+        <div>
+            <p> In this era cloud computing is used in various fields like industry, military, college, etc.
+                for various services and storage of huge amount of data. Data stored in this cloud
+                can be accessed or retrieved on the users request without direct access to the server computer. But the major concern regarding storage of data online that is on the cloud is the Security. This Security
+                concern can be solved using various ways, the most commonly used techniques are cryptography and steganography. But
+                sometimes a single technique or algorithm alone cannot provide high-level security. So we have introduces a new security
+                mechanism that uses a combination of multiple cryptographic algorithms of symmetric key and steganography. In this
+                proposed system 3DES (Triple Data Encryption Standard), RC6 (Rivest Cipher 6) and AES (Advanced Encryption Standard)
+                algorithms are used to provide security to data. All the algorithms use 128-bit keys. LSB steganography technique is used to
+                securely store the key information. Key information will contain the information regarding the encrypted part of the file, the
+                algorithm and the key for the algorithm. File during encryption is split into three parts. These individual parts of the file will
+                be encrypted using different encryption algorithm simultaneously with the help of multithreading technique. The key
+                information is inserted into an image using the LSB technique. Our methodology guarantees better security and protection of
+                customer data by storing encrypted data on a single cloud server, using AES, 3DES and RC6 algorithm.
+            </p></div>
+    </article>
+</section>
+<aside class="aright">
+    <figure>
+        <img src="abc.jpg" height="100px" width="=100px" />
+        <figcaption>Great Image</figcaption>
+    </figure>
+    <div>
+        <ul>
+            <li> <a href="#"> Home</a></li>
+            <li> <a href="#"> About</a></li>
+            <li> <a href="#"> Contact</a> </li>
+        </ul>
+    </div>
+
+</aside>
+<footer>
+   This is CopyRight
+</footer>
+
+</body>
+</html>

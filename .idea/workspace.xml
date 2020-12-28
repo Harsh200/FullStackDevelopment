@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/PositionRelative.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/DisplayInlineBlock.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +49,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,14 +81,8 @@
       <workItem from="1596603722819" duration="5048000" />
       <workItem from="1596629547605" duration="7493000" />
       <workItem from="1597227053032" duration="4522000" />
-      <workItem from="1597293301344" duration="3416000" />
-    </task>
-    <task id="LOCAL-00036" summary="simple music website using html">
-      <created>1596204163557</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1596204163557</updated>
+      <workItem from="1597293301344" duration="4651000" />
+      <workItem from="1609136086095" duration="4764000" />
     </task>
     <task id="LOCAL-00037" summary="working with forms in html">
       <created>1596204468964</created>
@@ -422,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597297426074</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="positioning relative">
+      <created>1597297594798</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1597297594798</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,7 +435,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="using type selector with more than one tag" />
     <MESSAGE value="class selectors in html" />
     <MESSAGE value="some changes" />
     <MESSAGE value="applying class selector to particular html tag" />
@@ -455,40 +459,13 @@
     <MESSAGE value="vertical menu" />
     <MESSAGE value="positioning fixed" />
     <MESSAGE value="positioning absolute" />
-    <option name="LAST_COMMIT_MESSAGE" value="positioning absolute" />
+    <MESSAGE value="positioning relative" />
+    <option name="LAST_COMMIT_MESSAGE" value="positioning relative" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596201972714">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1609139089623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="445" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596201972714" />
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1597297424737">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597297424737" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1596105641113">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596105641113" />
-    <state x="529" y="261" key="Github.ShareDialog" timestamp="1596105669313">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="529" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1596105669313" />
-    <state x="452" y="68" key="Github.UntrackedFilesDialog" timestamp="1596105682378">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="452" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596105682378" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1597230021656">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597230021656" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1596635238578">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1596635238578" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597294836516">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1597294836516" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1609139089623" />
   </component>
 </project>
