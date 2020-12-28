@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e30d105d-c828-4b49-8c5e-006b8849ded6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/DisplayInlineBlock.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/Layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML CSS Project/ProductLandingPage/casper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML CSS Project/ProductLandingPage/download.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML CSS Project/ProductLandingPage/download1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML CSS Project/ProductLandingPage/productPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML CSS Project/ProductLandingPage/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML CSS Project/Website Layout/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML CSS Project/surveyPage/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML CSS Project/surveyPage/survey.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -38,13 +44,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HTML CSS Project/ProductLandingPage" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\WebstormProjects\FullStackDevelopment\HTML CSS Project\ProductLandingPage" />
       <recent name="C:\Users\Dell\WebstormProjects\FullStackDevelopment\CSS" />
     </key>
   </component>
@@ -82,14 +89,7 @@
       <workItem from="1596629547605" duration="7493000" />
       <workItem from="1597227053032" duration="4522000" />
       <workItem from="1597293301344" duration="4651000" />
-      <workItem from="1609136086095" duration="4764000" />
-    </task>
-    <task id="LOCAL-00037" summary="working with forms in html">
-      <created>1596204468964</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1596204468964</updated>
+      <workItem from="1609136086095" duration="10555000" />
     </task>
     <task id="LOCAL-00038" summary="creating simple form">
       <created>1596205183665</created>
@@ -427,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597297594798</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="layout file for page layout">
+      <created>1609141093513</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1609141093513</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,7 +442,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="class selectors in html" />
     <MESSAGE value="some changes" />
     <MESSAGE value="applying class selector to particular html tag" />
     <MESSAGE value="id's in html and css" />
@@ -460,12 +466,21 @@
     <MESSAGE value="positioning fixed" />
     <MESSAGE value="positioning absolute" />
     <MESSAGE value="positioning relative" />
-    <option name="LAST_COMMIT_MESSAGE" value="positioning relative" />
+    <MESSAGE value="layout file for page layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="layout file for page layout" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1609139089623">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1609141089820">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1609139089623" />
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1609141089820" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1609141102204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609141102204" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1609147112383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1609147112383" />
   </component>
 </project>

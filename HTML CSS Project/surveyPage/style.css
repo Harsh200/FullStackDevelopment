@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+}
+header,footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+section{
+    text-align: center;
+    padding: 10px;
+}
+form input[type="text"]{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
