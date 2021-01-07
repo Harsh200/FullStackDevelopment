@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript Function</title>
+    <script>
+        function sum(a,b){
+            return a+b;
+        }
+        var a=function (a,b){
+            return a*b;
+        }
+        function array(a){
+            document.write(a[0]);
+        }
+    </script>
+</head>
+<body>
+<a href="#" onclick="document.write(sum(parseInt(prompt()),parseInt(prompt())));">Sum of 2 Numbers</a>
+<br>
+<a href="#" onclick="document.write(a(parseInt(prompt('Enter First Number')), parseInt(prompt('Enter Second Number'))));">Multiply two number with anonyms function</a>
+<br>
+<a href="#" onclick="array([1,2,3]);">Print array 0 index</a>
+</body>
+</html>

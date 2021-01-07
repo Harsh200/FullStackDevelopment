@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Guessing Number Game</title>
+    <script>
+        var message="";
+        var ans=5;
+        var counter=0;
+        var flag=false;
+        do{
+            var input1=parseInt(prompt("Guess Number from 1 to 10"));
+            if(input1!=ans){
+                alert("Nope");
+            }
+            else{
+                flag=true;
+                break;
+            }
+            if(counter==3) {
+                break;
+            }
+            counter++;
+
+        } while (ans!=input1);
+        if(flag) {
+            message = "You guessed it right" + "<br>" + ans + "is the answer";
+        }
+        else{
+            message="Sorry better try again";
+        }
+    </script>
+</head>
+<body>
+<h1> Guess the number</h1>
+,<script>
+    document.write(message);
+</script>
+</body>
+</html>

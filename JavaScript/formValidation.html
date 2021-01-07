@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form Validation with javaScript</title>
+    <script>
+        function checkformdata(){
+            var message="";
+
+            // Access the text box content
+            var tname=document.getElementById('txt_name').value;
+            var temail=document.getElementById('txt_email').value;
+            var tage=document.getElementById('txt-age').value;
+
+            //Access radio button value
+            var tgender1=document.getElementById('radio1').checked;
+            var tgender2=document.getElementById('radio2').checked;
+
+            // Acces the checkbox;
+
+            var tchkbox=document.getElementById('checkbox').checked;
+
+            message+="Name: "+ tname +"<br>";
+            message+="Email: "+ temail+"<br>";
+            message+="Age: " + tage+"<br>";
+            message+="Male: " + tgender1+"<br>";
+            message+="Female: " + tgender2+"<br>";
+            message+="Checkbox: " + tchkbox+"<br>";
+
+            document.getElementById('tmessage').innerHTML=message;
+
+        }
+    </script>
+</head>
+<body>
+<p id="tmessage"></p>
+<h1> Form Validation</h1>
+<form action="https://phpbootcamp.com/" method="get">
+  Your Name:  <input type="text" name="tname" id="txt_name"/><br>
+  Your Email:  <input type="text" name="temail" id="txt_email"/> <br>
+  Your Age:  <input type="text" name="'tage" id="txt-age"/><br>
+    Male: <input id="radio1" name="geder" type="radio" checked/>
+    Female: <input id="radio2" name="gender" type="radio" /> <br> <br>
+    <input type="checkbox" id="checkbox"/>Agree to our Terms <br> <br>
+    <input type="button" name="submit" value="submit" onclick="checkformdata();"/>
+</form>
+</body>
+</html>

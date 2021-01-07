@@ -1,0 +1,49 @@
+body{
+    background-color: white;
+}
+header{
+    text-align: right;
+}
+header ul{
+    list-style-type: none;
+}
+header ul li{
+    display: inline-block;
+    margin: 0 0 0 50px;
+}
+section{
+    width: 1000px;
+    height: 580px;
+}
+section img{
+    width: 500px;
+    height: 200px;
+    margin:  0 0 auto;
+    margin-right: 200px;
+    margin-left: 400px;
+}
+section form{
+    margin-left: 200px;
+
+}
+section form button{
+    margin-left: 200px;
+    padding: 5px;
+}
+footer{
+    text-align: center;
+}
+footer ul{
+    list-style-type: none;
+}
+footer ul li{
+    display: inline-block;
+}
+footer ul.before{
+    text-align: left;
+    margin: 0 10px 10px 0;
+}
+footer ul.after{
+    text-align: right;
+    margin: 10px 20px 0 0;
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript object</title>
+    <script>
+        function area(a,b) {
+            this.input1 = a;
+            this.input2 = b;
+
+            this.getArea = function () {
+                return this.input1 + this.input2;
+            }
+        }
+            var input1=parseInt(prompt("enter width"));
+            var input2=parseInt(prompt("enter height"));
+            var res=0;
+            var a1=new area(input1,input2);
+            res=a1.getArea();
+            document.write(res);
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

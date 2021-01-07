@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM</title>
+    <script>
+        function update(){
+          document.getElementById('abc').innerHTML=document.getElementById('abcd').value;
+        }
+    </script>
+
+</head>
+<body>
+<h1> Find an element </h1>
+<p id="abc">
+</p>
+<form>
+    <input type="text" id="abcd" onkeypress="update();" />
+</form>
+</body>
+</html>
