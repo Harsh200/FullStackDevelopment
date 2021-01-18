@@ -25,4 +25,14 @@ function createPerson(firstname,lastname,age)
 }
 
 p1=createPerson('raj','saxena',76);
-document.write(p1.fullname+" "+p1.firstname+" "+p1.lastname+" "+p1.isSenior());
+document.write(p1.fullname+" "+p1.firstname+" "+p1.lastname+" "+p1.isSenior() +"<br>");
+
+
+
+
+let student={
+    'first name':'stuti',
+    'last name':'saxena'
+}
+document.write(`My sister first name is ${student["first name"]} and last name is ${student['last name']}`);
+
